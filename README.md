@@ -3,12 +3,12 @@
 <!-- **Indominous1/Indominous1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 ## You are welcome to my Github. Have fun exploring the repositories and do give them a ✨, if you like them.
 
-- 🔭 I’m currently working on Java, Web Developement, AWS and Spring
-- 🌱 I’m currently learning  Python and Cloud
-- 👯 I’m looking to collaborate on Cloud Projects and Full Stack
+- 🔭 I’m currently working on C/C++, Web Developement, Node.js, Mobile Application Developement
+- 🌱 I’m currently learning  Firebase and Cloud
+- 👯 I’m currently working on improving my Problem Solving and Developement Skills
 <!-- - 🤔 I’m looking for help with -->
 - 💬 Ask me about Techs 
-- 📫 How to reach me: <a href="mailto: thekishoranand2gmail.com">Email</a>
+- 📫 How to reach me: <a href="mailto: ankursinghvns759@gmail.com">Email</a>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am die-hard fan of Robert Downey Jr. 
 
@@ -18,7 +18,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Kishor....;Nice+to+meet+you!👋&center=justifycontent&size=35">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Ankur....;Nice+to+meet+you!👋&center=justifycontent&size=35">
   </a>
 </h1>
 
@@ -26,23 +26,22 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/thekishoranand/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kishor-anand" height="35" width="40" />
+<a href="https://www.linkedin.com/in/ankur-singh-715a79323/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ankur Singh" height="35" width="40" />
  </a>
-<a href="https://www.hackerrank.com/thekishoranand?hr_r=1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="indominous1" height="35" width="40" />
+<!-- <a href="https://www.hackerrank.com/profile/indominous759" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="indominous1" height="35" width="40" />
+ </a> -->
+<a href="https://www.hackerrank.com/profile/indominous759" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Ankur Singh" height="35" width="40" />
  </a>
-<a href="https://www.hackerrank.com/thekishoranand?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="thekishoranand" height="35" width="40" />
- </a>
-<a href="https://leetcode.com/thekishoranand/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thekishoreanand" height="35" width="40" />
+<a href="https://leetcode.com/u/Indominous1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thekishoreanand" height="35" width="40" />
  </a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages:</h3>
 <p align="center">
- <a href="https://github.com/devicons/devicon/tree/master/icons" target="_blank" rel="noreferrer"> <img src="https://github.com/Indominous1/Indominous1/blob/main/30_github.c0a4dde53e.png" alt="github" width="50" height="50"/> 
  </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" alt="git" width="50" height="50"/> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" alt="git" width="50" height="50"/> 
   </a> 
- <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="git" width="50" height="50"/> 
+ <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="50" height="50"/> 
   </a> 
  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/> 
  </a> 
@@ -67,8 +66,28 @@
  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="50" height="50"/> 
  </a>
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a> 
+<a href="https://reactrouter.com/en/main" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original.svg" alt="react-router" width="50" height="50"/>
+</a> 
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" alt="firebase" width="50" height="50"/>
+</a> 
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="50" height="50"/>
 </a>
+</p>
+
+
+<h3 align="center">Tools:</h3>
+<p align="center">
+ <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="50" height="50"/> 
+ </a> 
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt="pyharm" width="50" height="50"/> 
+  </a> 
+ <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50"/> 
+  </a> 
+ <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" alt="visualstudio" width="50" height="50"/> 
+ </a> 
+ <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg" alt="eclipse"width="50" height="50"/> 
+ </a>
+
 </p>
 
 
@@ -78,23 +97,23 @@
 
 <p align="center"> 
  <a href="https://github.com/antonkomarev/github-profile-views-counter" title="Go to source">
- <img src="https://komarev.com/ghpvc/?username=thekishoranand&label=Profile%20views&color=ff69b4&style=flat&bg_color=0D1117" alt="thekishoranand" /> 
+ <img src="https://komarev.com/ghpvc/?username=Ankur-Singh-jpg&label=Profile%20views&color=ff69b4&style=flat&bg_color=0D1117" alt="Ankur singh" /> 
   </a>
   </p>
  
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img  width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=thekishoranand&theme=black-ice&hide_border=true&background=0D1117" alt="Indominous1" />
+      <img  width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=Ankur-Singh-jpg&theme=black-ice&hide_border=true&background=0D1117" alt="Ankur singh" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=400 src="https://github-readme-stats.vercel.app/api?username=thekishoranand&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" />
+      <img align="right" width=400 src="https://github-readme-stats.vercel.app/api?username=Ankur-Singh-jpg&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" />
     </a>
   </div>
  
   <br>
   <div align=center>
- <a href="https://github.com/anuraghazra/github-readme-stats"><img width=400 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thekishoranand&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img width=400 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankur-Singh-jpg&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
      </a>
   </div>
 <br>
